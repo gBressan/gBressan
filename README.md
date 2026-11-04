@@ -2,40 +2,16 @@
 
 `Software Engineer | Backend & AI Engineering`
 
-Software Engineer specializing in backend development and AI Engineering, building scalable applications with Java, Spring Boot, Python, and FastAPI. Experienced in microservices, Generative AI, LLMs, RAG, and agentic systems, with a focus on software architecture, performance, and reliable production solutions.
+Software Engineer focused on building scalable backend systems and AI-powered applications. Experienced with Java, Spring Boot, Python, and Generative AI, developing microservices, RAG pipelines, and agentic systems with a focus on performance, architecture, and reliability.
 
-<a href="https://www.linkedin.com/in/gabriel-bressan-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bressan-dev/)
 
 ---
 
-### 🛠️ Languages & Technologies
-
-**Languages & Frameworks**
+### 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,fastapi,angular,react,nextjs&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,angular,react,docker,gcp,azure,postgres,git&theme=dark" alt="Tech Stack" />
 </p>
 
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="45" height="45" alt="LangGraph" title="LangGraph" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="45" height="45" alt="LangChain" title="LangChain" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/llamaindex-color.svg" width="45" height="45" alt="LlamaIndex" title="LlamaIndex" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langfuse-color.svg" width="45" height="45" alt="Langfuse" title="Langfuse" />
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/azureai.png" width="45" height="45" alt="Azure AI" title="Azure AI" />
-</p>
-
-**Cloud & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,git,github,githubactions,maven&theme=dark" alt="Cloud and DevOps" />
-</p>
-
-**Databases & Messaging**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,elasticsearch,kafka&theme=dark" alt="Databases and Messaging" />
-</p>
+**AI Engineering:** LangGraph · LangChain · LlamaIndex · Langfuse · Azure OpenAI · RAG
