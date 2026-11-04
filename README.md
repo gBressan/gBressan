@@ -18,14 +18,14 @@ Software Engineer specializing in backend development and AI Engineering, buildi
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,fastapi,angular,react,nextjs&theme=dark" alt="Languages and Frameworks" />
 </p>
 
-**AI & Machine Learning**
+### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph.svg" width="45" height="45" alt="LangGraph" title="LangGraph" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="45" height="45" alt="LangChain" title="LangChain" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/llamaindex.svg" width="45" height="45" alt="LlamaIndex" title="LlamaIndex" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langfuse.svg" width="45" height="45" alt="Langfuse" title="Langfuse" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/azureai.svg" width="45" height="45" alt="Azure AI" title="Azure AI" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="45" height="45" alt="LangGraph" title="LangGraph" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="45" height="45" alt="LangChain" title="LangChain" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/llamaindex-color.svg" width="45" height="45" alt="LlamaIndex" title="LlamaIndex" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langfuse-color.svg" width="45" height="45" alt="Langfuse" title="Langfuse" />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/azureai.png" width="45" height="45" alt="Azure AI" title="Azure AI" />
 </p>
 
 **Cloud & DevOps**
