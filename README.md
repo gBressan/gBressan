@@ -11,14 +11,14 @@ Software Engineer specializing in backend development and AI Engineering, buildi
 
 ### 🛠️ Languages & Technologies
 
-**Backend & Languages**
+**Languages & Frameworks**
 
-![Backend](https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts&theme=dark)
+![Skills](https://skillicons.dev/icons?i=java,python,ts,js,spring,fastapi,angular,react,nextjs&theme=dark)
 
-**Databases & Infrastructure**
+**AI & Machine Learning**
 
-![Infrastructure](https://skillicons.dev/icons?i=postgres,redis,elasticsearch,kafka,docker,git,gcp,azure&theme=dark)
+`LangGraph` · `LangChain` · `LlamaIndex` · `Langfuse` · `Azure OpenAI` · `RAG` · `Machine Learning`
 
-**AI & Generative AI**
+**Cloud & Tools**
 
-`LangGraph` · `LangChain` · `LlamaIndex` · `Langfuse` · `RAG` · `LLMs` · `Azure OpenAI`
+![Tools](https://skillicons.dev/icons?i=gcp,docker,git,github,azure,postgres,kafka&theme=dark)
