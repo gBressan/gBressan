@@ -1,7 +1,5 @@
-<h3 align="center">Software Engineer | Backend & AI Engineering</h3>
+### Software Engineer | Backend & AI Engineering
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-bressan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-gabriel--bressan--dev-0A66C2?style=for-the-badge" alt="LinkedIn"/>
-  </a>
-</p>
+Software Engineer focused on building scalable backend systems and AI-powered applications. Experienced with Java, Spring Boot, Python, and Generative AI, developing microservices, RAG pipelines, and agentic systems with a focus on performance, architecture, and reliability.
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-bressan-dev)
